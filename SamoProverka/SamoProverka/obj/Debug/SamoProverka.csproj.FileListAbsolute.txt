@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\bin\Debug\SamoProverka.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\bin\Debug\SamoProverka.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\bin\Debug\SamoProverka.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\obj\Debug\SamoProverka.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\obj\Debug\SamoProverka.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\SamoProverka\SamoProverka\obj\Debug\SamoProverka.pdb

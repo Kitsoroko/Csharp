@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProstojKalkuljator", "ProstojKalkuljator\ProstojKalkuljator.csproj", "{8C6F8450-90FF-4499-8059-1DD102D92BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProstojKalkuljatorIFelse", "ProstojKalkuljatorIFelse\ProstojKalkuljatorIFelse.csproj", "{84900137-B536-4F45-9801-50485A711E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6F8450-90FF-4499-8059-1DD102D92BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6F8450-90FF-4499-8059-1DD102D92BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6F8450-90FF-4499-8059-1DD102D92BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6F8450-90FF-4499-8059-1DD102D92BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84900137-B536-4F45-9801-50485A711E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84900137-B536-4F45-9801-50485A711E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84900137-B536-4F45-9801-50485A711E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84900137-B536-4F45-9801-50485A711E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A982D40F-CBE6-4018-9EBB-6AB3D9A64B6C}
+	EndGlobalSection
+EndGlobal

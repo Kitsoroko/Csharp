@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\bin\Debug\SummaChetnNEchetn.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\bin\Debug\SummaChetnNEchetn.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\bin\Debug\SummaChetnNEchetn.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\obj\Debug\SummaChetnNEchetn.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\obj\Debug\SummaChetnNEchetn.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\SummaChetnNEchetn\obj\Debug\SummaChetnNEchetn.pdb

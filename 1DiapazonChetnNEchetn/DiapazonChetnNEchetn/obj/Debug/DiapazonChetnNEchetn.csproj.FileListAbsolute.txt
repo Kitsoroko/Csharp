@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\bin\Debug\DiapazonChetnNEchetn.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\bin\Debug\DiapazonChetnNEchetn.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\bin\Debug\DiapazonChetnNEchetn.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\obj\Debug\DiapazonChetnNEchetn.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\obj\Debug\DiapazonChetnNEchetn.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\DiapazonChetnNEchetn\DiapazonChetnNEchetn\obj\Debug\DiapazonChetnNEchetn.pdb

@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\bin\Debug\ifelse.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\bin\Debug\ifelse.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\obj\Debug\ifelse.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\obj\Debug\ifelse.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ifelse\ifelse\obj\Debug\ifelse.pdb

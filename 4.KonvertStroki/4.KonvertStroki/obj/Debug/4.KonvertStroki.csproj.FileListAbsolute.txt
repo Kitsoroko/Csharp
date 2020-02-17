@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\bin\Debug\4.KonvertStroki.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\bin\Debug\4.KonvertStroki.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\bin\Debug\4.KonvertStroki.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\obj\Debug\4.KonvertStroki.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\obj\Debug\4.KonvertStroki.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\4.KonvertStroki\4.KonvertStroki\obj\Debug\4.KonvertStroki.pdb

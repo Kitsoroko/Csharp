@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\bin\Debug\ProstojKalkuljatorIFelse.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\bin\Debug\ProstojKalkuljatorIFelse.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\bin\Debug\ProstojKalkuljatorIFelse.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\obj\Debug\ProstojKalkuljatorIFelse.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\obj\Debug\ProstojKalkuljatorIFelse.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\ProstojKalkuljator\ProstojKalkuljatorIFelse\obj\Debug\ProstojKalkuljatorIFelse.csprojAssemblyReference.cache
