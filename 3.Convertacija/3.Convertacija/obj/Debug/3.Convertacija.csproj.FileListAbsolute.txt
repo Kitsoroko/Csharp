@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\bin\Debug\3.Convertacija.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\bin\Debug\3.Convertacija.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\bin\Debug\3.Convertacija.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\obj\Debug\3.Convertacija.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\obj\Debug\3.Convertacija.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Convertacija\3.Convertacija\obj\Debug\3.Convertacija.pdb

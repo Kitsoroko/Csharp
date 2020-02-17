@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\bin\Debug\2.Peremennaja.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\bin\Debug\2.Peremennaja.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\bin\Debug\2.Peremennaja.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\obj\Debug\2.Peremennaja.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\obj\Debug\2.Peremennaja.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\2.Peremennaja\2.Peremennaja\obj\Debug\2.Peremennaja.pdb

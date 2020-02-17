@@ -1,0 +1,6 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\bin\Debug\1PorjadokVipoln.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\bin\Debug\1PorjadokVipoln.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\bin\Debug\1PorjadokVipoln.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\obj\Debug\1PorjadokVipoln.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\obj\Debug\1PorjadokVipoln.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\1PorjadokVipoln\1PorjadokVipoln\obj\Debug\1PorjadokVipoln.pdb

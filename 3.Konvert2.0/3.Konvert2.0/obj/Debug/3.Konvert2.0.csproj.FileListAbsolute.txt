@@ -1,0 +1,5 @@
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Konvert2.0\3.Konvert2.0\bin\Debug\3.Konvert2.0.exe.config
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Konvert2.0\3.Konvert2.0\bin\Debug\3.Konvert2.0.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Konvert2.0\3.Konvert2.0\bin\Debug\3.Konvert2.0.pdb
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Konvert2.0\3.Konvert2.0\obj\Debug\3.Konvert2.0.exe
+C:\Users\User.DESKTOP-2UFV4TI\source\repos\3.Konvert2.0\3.Konvert2.0\obj\Debug\3.Konvert2.0.pdb
